@@ -3,7 +3,10 @@
 
 O ransomware é um tipo de malware que criptografa os arquivos da vítima e exige um pagamento (resgate) para restaurar o acesso. 
 Embora seja uma ameaça real e perigosa, estudar seu funcionamento em ambientes seguros é essencial para profissionais de segurança cibernética.
+
+
 ⚙️ Como Funciona um Ransomware Simples em Python
+
 Um exemplo básico de ransomware em Python pode incluir:
 •	Busca por arquivos: O script percorre diretórios em busca de arquivos com extensões específicas (.txt, .docx, .jpg etc.).
 •	Criptografia: Utiliza bibliotecas como cryptography ou PyCrypto para criptografar os arquivos com uma chave gerada.
